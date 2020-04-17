@@ -1,0 +1,70 @@
+.Caja_Amarillo{
+background-color: yellow;
+display: inline-block;
+height: 70px;
+width: 70px;
+}
+
+.Caja_Azul{
+background-color: blue;
+display: inline-block;
+height: 70px;
+width: 70px;
+}
+
+.Caja_Rojo{
+background-color: red;
+display: inline-block;
+height: 70px;
+width: 70px;
+}
+
+.Caja_Marino_Grande{
+background-color: mediumaquamarine;
+display: inline-block;
+height: 140px;
+width: 662px;
+}
+
+.Caja_Verde_Grande{
+background-color: green;
+display: inline-block;
+height: 140px;
+width: 662px;
+}
+
+.Caja_Marino_Medio{
+background-color: mediumaquamarine;
+display: inline-block;
+margin-left: 145px;
+position: relative;
+height: 140px;  
+width: 518px;
+}
+
+.Caja_Naranja_Iz{
+    background-color: orange;
+    position: absolute;
+    bottom: 0px;
+    height: 70px;  
+    width: 70px;
+    }
+
+
+.Caja_Verde_Medio{
+background-color: green;
+display: inline-block;
+margin-right: 145px;
+position: relative;
+height: 140px;  
+width: 518px;
+}
+
+.Caja_Naranja_De{
+    background-color: orange;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    height: 70px;  
+    width: 70px;
+    }
